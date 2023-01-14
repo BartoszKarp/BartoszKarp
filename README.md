@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [TinyUrl](https://github.com/StormITpl/TinyUrl) and [EduQuiz](https://github.com/StormITpl/EduQuiz)
 
-- 👨‍💻 All of my projects are available at [https://github.com/BartoszKarp](https://github.com/BartoszKarp)
-
 - 💼 About me: **I am Master Engineer of Electronics and Telecommunication. Specialization: Technical Informatics and Telecommunications**
 
 - 📫 How to reach me **bartek.karp93@gmail.com**
