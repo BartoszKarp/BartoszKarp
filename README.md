@@ -1,6 +1,8 @@
 <h1 align="center">👋 Hello, I'm Bartek 👋</h1>
 <h3 align="center">An engineer and passionate self-taught Java Developer from Poland. I like solve problems than create them. Hence the desire to learn programming. At first it was just a hobby. Now I know I could do it professionally.</h3>
 
+- 🔥🔥🔥 Check my last project [LetsFindOut](https://github.com/BartoszKarp/LetsFindOut) 🔥🔥🔥
+
 - 🔭 I’m currently working on [TinyUrl](https://github.com/StormITpl/TinyUrl) and [EduQuiz](https://github.com/StormITpl/EduQuiz)
 
 - 💼 About me: **I am Master Engineer of Electronics and Telecommunication. Specialization: Technical Informatics and Telecommunications**
