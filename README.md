@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact: **I trained Judo for 11 years 🥋**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/bartosz-karp/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bartosz-karp/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/bartek.karp1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/bartek.karp1/" height="30" width="40" /></a>
