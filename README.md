@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **bartek.karp93@gmail.com**
 
-- 📄 Know about my experiences [bartoszkarp.github.io](bartoszkarp.github.io)
+- 📄 Know about my experiences [bartoszkarp.github.io](https://bartoszkarp.github.io)
 
 - ⚡ Fun fact: **I trained Judo for 11 years 🥋**
 
